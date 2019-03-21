@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="title_activity_accueil">ChatApp</string>
+    <string name="copyright">Copyright &#169;2017 Vijey GAME Designer</string>
+</resources>

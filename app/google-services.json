@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219160439900",
+    "firebase_url": "https://chatapplication-d8ea9.firebaseio.com",
+    "project_id": "chatapplication-d8ea9",
+    "storage_bucket": "chatapplication-d8ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219160439900:android:ae8cce8956da3c4d",
+        "android_client_info": {
+          "package_name": "vijeygamedesigner.cd.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219160439900-sfr2skql72et85rm5mj1rqrtkdfk6s2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vijeygamedesigner.cd.chatapplication",
+            "certificate_hash": "87b149d31e35930faf5aead35df08b162af06019"
+          }
+        },
+        {
+          "client_id": "219160439900-6aaeq7fa1568bs0ciifsqs8bquebr3bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9NofxZEduofCx6nqQ_unAYUZSyLuIDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219160439900-6aaeq7fa1568bs0ciifsqs8bquebr3bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
